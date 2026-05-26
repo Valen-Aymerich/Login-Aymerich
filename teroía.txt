@@ -1,0 +1,39 @@
+Proyecto login con arquitectura Back-end sirve Front-end
+
+Framework Flask
+
+Jinja - - - herencia de código (no repetir código)
+
+tree /f - - - - - - - árbol de directorios (carpetas y archivos de proyectos) (comando para ver la estructura)
+
+C:.
+│   app.py
+│   requirements.txt
+│   teroía.txt
+│   
+├───static
+│       style.css
+│       
+└───templates
+        base.html
+        dashboard.html
+        login.html
+        register.html
+
+Crear carpetas y archivos de proyectos a partir de la estructura
+
+control - shift p
+Extensión Create Directory Structure
+
+Crear entorno
+python -m venv (env/venv)
+
+Activar el entorno
+Active.ps1 ubicado
+
+Archivo requirements.txt es para contener las librerias 
+se puede crear o se puede instalar
+
+pip install .\requirements.txt 
+pip freeze > requirements.txt instalar iiindividualmente
+
